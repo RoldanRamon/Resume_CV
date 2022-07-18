@@ -1,28 +1,28 @@
 ---
-title: "Lijia Yu's resume"
-author: Lijia Yu
+title: "Ramon resume"
+author: Ramon Roldan de Lara
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+# knit: pagedown::chrome_print
 ---
 
 Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+![Ramon](https://avatars.githubusercontent.com/u/86989045?v=4){width=80%}
 
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> lijia.yu@outlook.com
-- <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
-- <i class="fa fa-phone"></i> +1 000-000-0000
+- <i class="fa fa-envelope"></i> roldanramon83@gmail.com
+- <i class="fa fa-github"></i> [RoldanRamon](https://github.com/RoldanRamon)
+- <i class="fa fa-phone"></i> +55 41 98458-8355
 - For more information, please contact me via email.
 
 
@@ -36,100 +36,53 @@ Skills {#skills}
 - Highly skilled in R, Bash, Perl, Python, LaTeX
 
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
-
-
-
 Main
 ================================================================================
 
-Lijia Yu {#title}
+Ramon Roldan de Lara {#title}
 --------------------------------------------------------------------------------
 
 ### Currently searching for a PhD student position
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+Passionate about data and technology, I have + 3 years of experience working daily with R, SQL and Python.
 
+Practical activities such as automated data collection, preparation and analysis, professional visualizations, development of web applications and Dashboards, statistical modeling, Machine Learning, Windows, Linux, database and search engines are part of my daily life.
+
+I currently work as a Strategic Planning Analyst at Marista Group where my goal is to apply knowledge of data science, technologies and statistics, to promote solutions and innovation for the organization.
+
+I also have very hard expertise with strategic sourcing on negotiation with suppliers, and service to internal customers, because I worked in the procurement area from national and international companies of sectors: Food and beverage, educacional, retail, ecommerce, agrobusiness, metallurgical, industrial and banking sector.
+
+Working together with multidisciplinary teams, I had the opportunity to participate in the implementation of complex projects by applying the methodology agile and six sigma.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Pos graduate in Lean Six Sigma: Green Belt
 
-B.S. in Information and Computing Sciences
+Catholic Pontiff University
 
-Beijing, China
+Curitiba, Brazil
 
-2010
+2022
 
-Thesis: Dyadic wavelet and its application in edge detection
+### Bachelor in Business Administration
 
-### University of Chinese Academy of Sciences
+Positive University
 
-M.S. in Bioinformatics
+Curitiba, Brazil
 
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
-
-
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
+2016
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Strategic Planning Senior Analyst 
 
-SupStat Inc.
+Marista Group
 
-Beijing, China
+Curitiba, Brazil
 
-2014
+05.2022
 
 ::: concise
 - Taught R language to beginners. 
